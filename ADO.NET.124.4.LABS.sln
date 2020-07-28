@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.4.LINQsql_m", "8.4.LINQsq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.1.DataReader", "0.1.DataReader\0.1.DataReader.csproj", "{CD6D2945-B9F6-43C7-A6F6-3CC982F3BB03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.2.LINQ to Entities", "0.2.LINQ to Entities\0.2.LINQ to Entities.csproj", "{9CF6718D-83E2-435D-9DE5-63C7CCBC728B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{CD6D2945-B9F6-43C7-A6F6-3CC982F3BB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD6D2945-B9F6-43C7-A6F6-3CC982F3BB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD6D2945-B9F6-43C7-A6F6-3CC982F3BB03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF6718D-83E2-435D-9DE5-63C7CCBC728B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF6718D-83E2-435D-9DE5-63C7CCBC728B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF6718D-83E2-435D-9DE5-63C7CCBC728B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF6718D-83E2-435D-9DE5-63C7CCBC728B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -42,5 +42,10 @@ namespace _0._1.DataReader
 
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
